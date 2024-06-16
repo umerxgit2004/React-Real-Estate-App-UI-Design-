@@ -96,6 +96,7 @@ nav{
             align-items: center;
             justify-content: center;
             transition: all 1s ease;
+            z-index: 3;
 
             &.active{
                 right:0
